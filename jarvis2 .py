@@ -9,7 +9,7 @@ from google import genai
 # ============================================
 # SETUP
 # ============================================
-client = genai.Client(api_key="AIzaSyAwTgh0zT9PCUZwNivIHdzAfJnDNc9hJfE")
+client = genai.Client(api_key="Enter Your API key Here")
 
 # Main personality of Jarvis
 default_prompt = """You are Jarvis, an AI assistant just like from Iron Man movie.
